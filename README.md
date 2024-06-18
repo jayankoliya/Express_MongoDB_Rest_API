@@ -1,4 +1,4 @@
-# Exploring The Node.js With Express and MongoDB Clusters
+# Exploring The Node.js With Express and MongoDB 
 
 ### Version
 1.0.0
@@ -6,7 +6,7 @@
 ## Usage
 
   1) Express
-  2) MongoDB Clusters
+  2) MongoDB 
 
 Install Dependencies
 
